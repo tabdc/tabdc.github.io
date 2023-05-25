@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,4 +11,4 @@ redirect_from:
 Currently
 ======
 
-I am currently a research assistant at [Aalto university](https://www.aalto.fi/en) working on theoretical aspects of graph neural networks under the guidannce...
+I am currently a research assistant at [Aalto university](https://www.aalto.fi/en) working on theoretical aspects of graph neural networks under the guidance of Prof. [Vikas Garg](https://www.mit.edu/~vgarg/).
