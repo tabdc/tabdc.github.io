@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Telmo Cunha"
-  avatar           : "profile.png"
+  avatar           : "photo.png"
   bio              : "Research assistant in Machine Learning"
   location         : "Helsinki"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
