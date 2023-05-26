@@ -12,12 +12,14 @@ Set of notes and code implementations exploring statistical learning theory [[1]
 
 ## Manifold Learning
 Two projects related to manifold learning done in the courses "Mathematics for Machine Learning" and "Nonlinear Optimization" at IST.
-- ["Manifold Learning in the context of Partially Labelled Classification"](https://tabdc.github.io/files/ml1.pdf)
-- ["A Duality View of Spectral Methods for Dimensionality Reduction"](https://tabdc.github.io/files/ml2.pdf)
+- ["Manifold Learning in the context of Partially Labelled Classification" - Report](https://tabdc.github.io/files/ml1.pdf)
+- ["Manifold Learning in the context of Partially Labelled Classification" - Code](https://github.com/tabdc/manifoldlearning/tree/main/Source%20Code)
+- ["A Duality View of Spectral Methods for Dimensionality Reduction" - Report](https://tabdc.github.io/files/ml2.pdf)
 
 ## Feature Selection
 A project related to feature selection via information theory done in the course "Mathematics for Machine Learning" at IST.
-- [Feature Selection](https://tabdc.github.io/files/fs.pdf)
+- [Feature Selection - Report](https://tabdc.github.io/files/fs.pdf)
+- [Feature Selection - Code](https://github.com/tabdc/featureselection/tree/main/Source%20Code)
 
 ## Collaborative Filtering
 A project related to collaborative filtering for a movie recommendation system done in the course "Mathematics for Machine Learning" at IST.
