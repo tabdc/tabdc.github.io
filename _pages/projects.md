@@ -23,7 +23,8 @@ A project related to feature selection via information theory done in the course
 
 ## Collaborative Filtering
 A project related to collaborative filtering for a movie recommendation system done in the course "Mathematics for Machine Learning" at IST.
-- [Collaborative Filtering](https://tabdc.github.io/files/cf.pdf)
+- [Collaborative Filtering - Report](https://tabdc.github.io/files/cf.pdf)
+- [Collaborative Filtering - Code](https://github.com/tabdc/collaborativefiltering/tree/main/Source%20Code)
 
 ## Geometric Quantization
 A research project done as part of the master's in mathematics at IST on geometric quantization and complex Hamiltonian flows.
