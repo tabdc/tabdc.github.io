@@ -2,7 +2,7 @@
 main:
 
   - title: "Academic Projects"
-    url: /projects/
+    url: /academicprojects/
     
   - title: "CV"
     url: "https://tabdc.github.io/files/cv.pdf"
