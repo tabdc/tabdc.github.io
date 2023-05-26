@@ -12,7 +12,7 @@ Set of notes and code implementations exploring statistical learning theory [[1]
 
 ## Manifold Learning
 Two projects related to manifold learning done in the courses "Mathematics for Machine Learning" and "Nonlinear Optimization" at IST.
-- [Manifold Learning in the context of Partially Labelled Classification](https://tabdc.github.io/files/ml1.pdf)
+- ["Manifold Learning in the context of Partially Labelled Classification"](https://tabdc.github.io/files/ml1.pdf)
 - ["A Duality View of Spectral Methods for Dimensionality Reduction"](https://tabdc.github.io/files/ml2.pdf)
 
 ## Feature Selection
