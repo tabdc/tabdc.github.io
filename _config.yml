@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Telmo Cunha"
 title_separator          : "-"
 name                     : &name "Telmo Cunha"
-description              : &description "Research assistant in Machine Learning at "[Aalto university](https://www.aalto.fi/en)
+description              : &description "Research assistant in Machine Learning at Aalto university"
 url                      : https://tabdc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tabdc/tabdc.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Telmo Cunha"
   avatar           : "photo.png"
-  bio              : "Research assistant in Machine Learning at "[Aalto university](https://www.aalto.fi/en)
+  bio              : "Research assistant in Machine Learning at Aalto university"
   location         : "Helsinki"
   employer         : 
   pubmed           : 
