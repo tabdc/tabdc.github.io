@@ -4,8 +4,10 @@ main:
   - title: "Academic Projects"
     url: /academicprojects/
     
+    
   #- title: "Personal Projects"
   #  url: /personalprojects/
+  
     
   - title: "CV"
     url: "https://tabdc.github.io/files/cvitae.pdf"
