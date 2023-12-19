@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Currently
+
+Current
 ======
 
-I am currently a research assistant at [Aalto university](https://www.aalto.fi/en) working on theoretical aspects of graph neural networks under the guidance of Prof. [Vikas Garg](https://www.mit.edu/~vgarg/).
+Working on my master's thesis in Mathematics at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) in the topics of Nonlinear Wave Equations and Mathematical Relativity under the guidance of Prof. [João Costa](https://ciencia.iscte-iul.pt/authors/joao-lopes-costa/cv) and Prof. [Pedro Girão](https://www.math.tecnico.ulisboa.pt/~pgirao/).
+
+Past
+======
+
+Research assistant at [Aalto university](https://www.aalto.fi/en) working on theoretical aspects of Graph Neural Networks in the context of Geometric Deep Learning under the guidance of Prof. [Vikas Garg](https://www.mit.edu/~vgarg/).
