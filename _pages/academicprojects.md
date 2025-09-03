@@ -5,7 +5,7 @@ permalink: /academicprojects/
 ---
 
 ## Master's Thesis in Applied Mathematics and Computation
-Thesis title: Semilinear Wave Equations in Decelerated Expanding FLRW Spacetimes 
+Thesis title: Semilinear Wave Equations in Decelerated Expanding FLRW Spacetimes.
 
 - [Thesis](https://tabdc.github.io/files/thesis-tabc.pdf)
 - [Extended Abstract](https://tabdc.github.io/files/ea-tabc.pdf)
