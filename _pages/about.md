@@ -12,7 +12,7 @@ redirect_from:
 Current
 ======
 
-Actively looking for a PhD position.
+Actively looking for a PhD position in Applied Mathematics/Physics.
 
 Past
 ======
