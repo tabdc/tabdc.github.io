@@ -17,7 +17,7 @@ Actively looking for a PhD position at the intersection of Applied Mathematics, 
 Past
 ======
 
-2025: MSc in Applied Mathematics and Computation at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) with a thesis on nonlinear wave equations in mathematical relativity under the guidance of [Prof. João Costa](https://ciencia.iscte-iul.pt/authors/joao-lopes-costa/cv) and [Prof. Pedro Girão](https://www.math.tecnico.ulisboa.pt/~pgirao/).
+2025: MSc in Applied Mathematics and Computation at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) with a thesis on Nonlinear Wave Equations in Mathematical Relativity under the guidance of [Prof. João Costa](https://ciencia.iscte-iul.pt/authors/joao-lopes-costa/cv) and [Prof. Pedro Girão](https://www.math.tecnico.ulisboa.pt/~pgirao/).
 
 2024-2025: Invited Assistant Professor at [Iscte - Instituto Universitário de Lisboa]([https://tecnico.ulisboa.pt/en/](https://www.iscte-iul.pt/)) - Taught both theory and exercise classes for Mathematics I and II (Calculus I, II and Linear Algebra) for Economics students.
 
