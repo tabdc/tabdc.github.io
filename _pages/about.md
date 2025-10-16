@@ -12,7 +12,7 @@ redirect_from:
 Current
 ======
 
-Actively looking for a PhD position in the intersection of Applied Mathematics, Condensed Matter Theory and Machine Learning.
+Actively looking for a PhD position at the intersection of Applied Mathematics, Condensed Matter Theory and Machine Learning.
 
 Past
 ======
