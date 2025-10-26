@@ -8,8 +8,8 @@ main:
     url: /academicprojects/
     
     
-  #- title: "Personal Projects"
-  #  url: /personalprojects/
+  - title: "Personal Projects"
+    url: /personalprojects/
   
     
   - title: "CV"
