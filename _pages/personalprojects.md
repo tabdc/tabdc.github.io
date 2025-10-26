@@ -4,6 +4,5 @@ author_profile: true
 permalink: /personalprojects/
 ---
 
-## Pytorch for DeepLearning
-Code implementations following the course [Pytorch for Deep Learning](https://www.udemy.com/course/pytorch-for-deep-learning/)
-- [Pytorch for Deep Learning - Code](https://github.com/tabdc/pytorch4dl)
+## Quantum Mechanics (In Progress)
+Set of notes and problem solutions generated while self-studying Quantum Mechanics following 8.04, 8.05 and 8.06 from MIT OpenCourseWare Lectures.
