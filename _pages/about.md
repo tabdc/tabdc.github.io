@@ -21,7 +21,7 @@ Past
 
 2024-2025: Invited Assistant Professor at [Iscte - Instituto Universitário de Lisboa]([https://tecnico.ulisboa.pt/en/](https://www.iscte-iul.pt/)) - Taught both theory and exercise classes for Mathematics I and II (Calculus I, II and Linear Algebra) for Economics students.
 
-2024: Teaching Assistant at [Iscte - Instituto Universitário de Lisboa]([https://tecnico.ulisboa.pt/en/](https://www.iscte-iul.pt/)) - Exercise classes for Mathematics II (Calculus I, II and Linear Algebra) for international Management students (in English).
+2024: Teaching Assistant at [Iscte - Instituto Universitário de Lisboa]([https://tecnico.ulisboa.pt/en/](https://www.iscte-iul.pt/)) - Exercise classes for Optimization (Calculus II and Linear Algebra) for international Management students (in English).
 
 2023: Research assistant at [Aalto university](https://www.aalto.fi/en) working on theoretical aspects of Graph Neural Networks in the context of Geometric Deep Learning under the guidance of Prof. [Vikas Garg]([https://www.mit.edu/~vgarg/](https://www.aalto.fi/en/people/vikas-kumar-garg)).
 
