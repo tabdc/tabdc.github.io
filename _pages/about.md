@@ -12,7 +12,7 @@ redirect_from:
 Current
 ======
 
-Actively looking for a PhD position at the intersection of Applied Mathematics, Condensed Matter Theory and Machine Learning.
+I am actively seeking a PhD position in Quantum Theory, with research interests spanning Mathematics, Condensed Matter Theory, and Computational Physics.
 
 Past
 ======
