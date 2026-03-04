@@ -12,7 +12,7 @@ redirect_from:
 Current
 ======
 
-I am actively seeking a PhD position in Quantum Theory, with research interests spanning Mathematics, Condensed Matter Theory, and Computational Physics.
+Actively seeking a PhD position.
 
 Past
 ======
