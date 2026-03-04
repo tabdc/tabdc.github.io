@@ -12,7 +12,7 @@ redirect_from:
 Current
 ======
 
-Actively seeking a PhD position.
+Looking for a PhD position in quantum many-body systems.
 
 Past
 ======
