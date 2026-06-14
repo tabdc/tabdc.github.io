@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-
-Current
+Interests
 ======
 
-Looking for a PhD position in quantum many-body systems.
+Quantum many-body systems, condensed matter theory, quantum information theory, mathematical physics, theoretical
+and scientific machine learning.
 
 Past
 ======
