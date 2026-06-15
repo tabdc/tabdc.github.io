@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Telmo Cunha"
 title_separator          : "-"
 name                     : &name "Telmo Cunha"
-description              : &description "Searching for a PhD position"
+description              : &description "..."
 url                      : https://tabdc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tabdc/tabdc.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Telmo Cunha"
   avatar           : "photo.png"
-  bio              : "Looking for a PhD position"
+  bio              : 
   location         : "Lisbon"
   employer         : 
   pubmed           : 
