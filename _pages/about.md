@@ -11,8 +11,7 @@ redirect_from:
 Interests
 ======
 
-Quantum many-body systems, condensed matter theory, quantum information theory, mathematical physics, theoretical
-and scientific machine learning.
+MSc graduate in Pure, Applied Mathematics and Computation with a background in Engineering Physics and experience in mathematical modelling, numerical computation, machine learning and statistical analysis. Interested in data science, machine learning, quantitative analysis and analytical roles.
 
 Past
 ======
