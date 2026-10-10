@@ -11,7 +11,7 @@ redirect_from:
 Interests
 ======
 
-MSc graduate in Pure, Applied Mathematics and Computation with a background in Engineering Physics and experience in mathematical modelling, numerical computation, machine learning and statistical analysis. Interested in data science, machine learning, quantitative analysis and analytical roles.
+MSc graduate in Pure and Applied Mathematics with a background in Engineering Physics. Experienced in mathematical modelling and scientific programming, particularly in Python, with interests spanning cyber-physical systems, embedded software, machine learning, and statistical analysis.
 
 Past
 ======
