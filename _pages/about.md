@@ -11,7 +11,7 @@ redirect_from:
 Interests
 ======
 
-MSc graduate in Pure and Applied Mathematics with a background in Engineering Physics and experience in mathematical modelling, machine learning and scientific programming. Seeking junior opportunities in embedded systems, robotics, and autonomous systems, particularly in simulation, software development, and hardware-software integration.
+MSc graduate in Pure and Applied Mathematics with a background in Engineering Physics and experience in mathematical modelling, machine learning and scientific programming. Seeking junior opportunities in computational science, embedded systems, robotics, and autonomous systems, particularly in simulation, software development, and hardware-software integration.
 
 Past
 ======
