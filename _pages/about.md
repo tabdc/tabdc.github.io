@@ -8,12 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Interests
-======
-
-MSc graduate in Pure and Applied Mathematics with a background in Engineering Physics and experience in mathematical modelling, machine learning and scientific programming. Seeking junior opportunities in computational science, embedded systems, robotics, and autonomous systems, particularly in simulation, software development, and hardware-software integration.
-
-Past
+Timeline
 ======
 
 2026: Research assistant at [CeFEMA](https://cefema.tecnico.ulisboa.pt/) working on non-equilibrium thermodynamics and ergodicity breaking under the guidance of Prof. [Giuseppe De Tomasi](https://sites.google.com/view/giuseppedetomasi).
