@@ -11,7 +11,7 @@ redirect_from:
 Timeline
 ======
 
-2026: Research assistant at [CeFEMA](https://cefema.tecnico.ulisboa.pt/) working on non-equilibrium thermodynamics and ergodicity breaking under the guidance of Prof. [Giuseppe De Tomasi](https://sites.google.com/view/giuseppedetomasi).
+2026: Research assistant at [CeFEMA](https://cefema.tecnico.ulisboa.pt/) working on non-equilibrium thermodynamics and ergodicity breaking in quantum many-body theory under the guidance of Prof. [Giuseppe De Tomasi](https://sites.google.com/view/giuseppedetomasi).
 
 2025: MSc in Applied Mathematics and Computation at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) with a thesis on Nonlinear Wave Equations in Mathematical Relativity under the guidance of [Prof. João Costa](https://ciencia.iscte-iul.pt/authors/joao-lopes-costa/cv) and [Prof. Pedro Girão](https://www.math.tecnico.ulisboa.pt/~pgirao/).
 
